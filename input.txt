@@ -1,0 +1,22 @@
+*include <stdio.h>
+int zan ()
+[
+	integer a=5 ;
+	integer b=6;
+	if(a plus b greater than 7)
+		[
+
+			integer c;
+			loop(c=1,c less than 10,c++)
+				[
+					while(a greater than c)
+						[
+							print c;
+						]
+				]
+		]
+	else
+		[
+			return b=a plus c;
+		]
+]
